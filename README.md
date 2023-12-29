@@ -1,1 +1,1 @@
-# Character-NFT-template-React
+# Ekans on Chain
