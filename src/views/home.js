@@ -9,8 +9,8 @@ const Home = (props) => {
   return (
     <div className="home-container">
       <Helmet>
-        <title>Character NFT template</title>
-        <meta property="og:title" content="Character NFT template" />
+        <title>ekansonchain</title>
+        <meta property="og:title" content="ekansonchain" />
       </Helmet>
       <header data-thq="thq-navbar" className="home-navbar">
         <div className="home-container1">
@@ -42,19 +42,18 @@ const Home = (props) => {
                 />
               </a>
             </button>
-            <button className="social button">
-              <a
-                href="https://t.me/+K2ykXRmWyjI3NDJk"
-                target="_blank"
-                rel="noreferrer noopener"
-              >
-                <img
-                  alt="image"
-                  src="/Icons/telegram.svg"
-                  className="home-image2"
-                />
-              </a>
-            </button>
+            <a
+              href="https://t.me/+K2ykXRmWyjI3NDJk"
+              target="_blank"
+              rel="noreferrer noopener"
+              className="home-link1"
+            >
+              <img
+                alt="image"
+                src="/Icons/telegram.svg"
+                className="home-image2"
+              />
+            </a>
           </div>
           <button className="home-view button">BUY $EKANS</button>
         </div>
