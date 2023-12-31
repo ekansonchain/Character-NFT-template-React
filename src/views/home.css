@@ -493,6 +493,7 @@
 .home-copyright {
   color: rgb(255, 255, 255);
   font-size: 12px;
+  align-self: center;
 }
 .home-container4 {
   flex: 0 0 auto;
