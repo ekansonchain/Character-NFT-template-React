@@ -168,14 +168,16 @@ const Home = (props) => {
             <div className="home-content">
               <h2 className="home-header09">Tokenomics</h2>
               <p className="home-description">
-                <span className="home-text07">50% Liquidity</span>
+                <span className="home-text07">15% Presale</span>
                 <br className="home-text08"></br>
-                <span className="home-text09">25% Project developments</span>
+                <span className="home-text09">45% Liquidity</span>
                 <br className="home-text10"></br>
-                <span className="home-text11">20% Farming</span>
+                <span className="home-text11">15% Project developments</span>
                 <br className="home-text12"></br>
-                <span className="home-text13">5% Airdrop </span>
+                <span className="home-text13">20% Farming</span>
                 <br className="home-text14"></br>
+                <span className="home-text15">5% Airdrop </span>
+                <br className="home-text16"></br>
                 <br></br>
               </p>
             </div>

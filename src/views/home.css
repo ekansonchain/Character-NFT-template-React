@@ -182,7 +182,6 @@
 .home-hero {
   gap: var(--dl-space-space-fiveunits);
   width: 100%;
-  border: 2px dashed rgba(120, 120, 120, 0.4);
   height: 388px;
   display: flex;
   position: relative;
@@ -441,15 +440,7 @@
   font-style: normal;
   font-weight: 700;
 }
-.home-text08 {
-  font-style: normal;
-  font-weight: 700;
-}
 .home-text09 {
-  font-style: normal;
-  font-weight: 700;
-}
-.home-text10 {
   font-style: normal;
   font-weight: 700;
 }
@@ -457,15 +448,11 @@
   font-style: normal;
   font-weight: 700;
 }
-.home-text12 {
-  font-style: normal;
-  font-weight: 700;
-}
 .home-text13 {
   font-style: normal;
   font-weight: 700;
 }
-.home-text14 {
+.home-text15 {
   font-style: normal;
   font-weight: 700;
 }
@@ -678,6 +665,16 @@
     text-align: center;
     line-height: 21px;
   }
+  .home-text08 {
+    font-size: 14px;
+    text-align: center;
+    line-height: 21px;
+  }
+  .home-text09 {
+    font-size: 14px;
+    text-align: center;
+    line-height: 21px;
+  }
   .home-button1 {
     margin-top: 0px;
   }
@@ -714,6 +711,57 @@
   }
   .home-row {
     height: 350px;
+  }
+  .home-description {
+    color: rgb(0, 0, 0);
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .home-text07 {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px;
+  }
+  .home-text08 {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px;
+  }
+  .home-text09 {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px;
+  }
+  .home-text10 {
+    font-style: normal;
+    font-weight: 700;
+  }
+  .home-text11 {
+    font-style: normal;
+    font-weight: 700;
+  }
+  .home-text12 {
+    font-style: normal;
+    font-weight: 700;
+  }
+  .home-text13 {
+    font-style: normal;
+    font-weight: 700;
+  }
+  .home-text14 {
+    font-style: normal;
+    font-weight: 700;
+  }
+  .home-text15 {
+    font-style: normal;
+    font-weight: 700;
+  }
+  .home-text16 {
+    font-style: normal;
+    font-weight: 700;
   }
   .home-copyright {
     align-self: center;
