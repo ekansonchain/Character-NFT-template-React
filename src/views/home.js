@@ -107,18 +107,15 @@ const Home = (props) => {
           </div>
         </div>
       </header>
-      <section className="home-hero">
-        <div className="home-heading"></div>
-      </section>
-      <div className="home-container4"></div>
+      <section className="home-hero"></section>
       <section className="home-roadmap">
-        <div className="home-heading1">
+        <div className="home-heading">
           <h2 className="home-header">Roadmap</h2>
         </div>
         <div className="home-list">
           <div className="home-step">
             <span className="home-caption">01</span>
-            <div className="home-heading2">
+            <div className="home-heading1">
               <h2 className="home-header01">Project Launch</h2>
               <p className="home-header02">
                 Create social media, token creation. Airdrops and community
@@ -128,14 +125,14 @@ const Home = (props) => {
           </div>
           <div className="home-step1">
             <span className="home-caption1">02</span>
-            <div className="home-heading3">
+            <div className="home-heading2">
               <h2 className="home-header03">Staking and governance</h2>
               <p className="home-header04">$EKANS Staking.</p>
             </div>
           </div>
           <div className="home-step2">
             <span className="home-caption2">03</span>
-            <div className="home-heading4">
+            <div className="home-heading3">
               <h2 className="home-header05">Listings</h2>
               <p className="home-header06">
                 <span>
@@ -147,7 +144,7 @@ const Home = (props) => {
           </div>
           <div className="home-step3">
             <span className="home-caption3">04</span>
-            <div className="home-heading5">
+            <div className="home-heading4">
               <h2 className="home-header07">Surprise</h2>
               <p className="home-header08">Some hush hush stuff..... </p>
             </div>
@@ -190,6 +187,32 @@ const Home = (props) => {
         <span className="home-copyright">
           © 2024 EKANS. All Rights Reserved.
         </span>
+        <div className="home-container4">
+          <a
+            href="https://x.com/ekansonchain?s=20"
+            target="_blank"
+            rel="noreferrer noopener"
+            className="home-link2"
+          >
+            <img
+              src="/Icons/twitter.svg"
+              alt="Twitter icon"
+              className="home-image4"
+            />
+          </a>
+          <a
+            href="https://t.me/+K2ykXRmWyjI3NDJk"
+            target="_blank"
+            rel="noreferrer noopener"
+            className="home-link3"
+          >
+            <img
+              src="/Icons/telegram.svg"
+              alt="Telegram icon"
+              className="home-image5"
+            />
+          </a>
+        </div>
       </footer>
       <div>
         <div className="home-container6">
